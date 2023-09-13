@@ -3,6 +3,11 @@ p {
   padding: 2mm;
 }
 
+#first-p-tag {
+  border: 2px red solid;
+  padding: 5mm;
+}
+
 a {
   text-decoration: none;
   border: 2px blue solid;
